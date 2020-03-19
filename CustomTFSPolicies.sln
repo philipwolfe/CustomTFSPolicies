@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomTFSPolicies", "CustomTFSPolicies\CustomTFSPolicies.csproj", "{C21147B4-14EC-494E-A4D9-F1A5BB66477E}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CustomTFSPolicies.Setup", "CustomTFSPolicies.Setup\CustomTFSPolicies.Setup.vdproj", "{6A49A29D-5187-4079-8FE2-6CCC251EA14A}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C21147B4-14EC-494E-A4D9-F1A5BB66477E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C21147B4-14EC-494E-A4D9-F1A5BB66477E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C21147B4-14EC-494E-A4D9-F1A5BB66477E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C21147B4-14EC-494E-A4D9-F1A5BB66477E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A49A29D-5187-4079-8FE2-6CCC251EA14A}.Debug|Any CPU.ActiveCfg = Debug
+		{6A49A29D-5187-4079-8FE2-6CCC251EA14A}.Debug|Any CPU.Build.0 = Debug
+		{6A49A29D-5187-4079-8FE2-6CCC251EA14A}.Release|Any CPU.ActiveCfg = Release
+		{6A49A29D-5187-4079-8FE2-6CCC251EA14A}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

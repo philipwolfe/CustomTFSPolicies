@@ -1,0 +1,4 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\VisualStudio\8.0\TeamFoundation\SourceControl\Checkin Policies]
+"CustomTFSPolicies"="C:\\Documents and Settings\\pwolfe\\My Documents\\Visual Studio 2005\\Projects\\CustomTFSPolicies\\bin\\debug\\CustomTFSPolicies.dll"
